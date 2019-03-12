@@ -23,6 +23,7 @@ section, summary, time, mark, audio, video {
 	border: 0;
 	font-size: 100%;
 	font: inherit;
+	font-weight: normal;
 	vertical-align: baseline;}
 
 article, aside, details, figcaption, figure,
@@ -1843,7 +1844,7 @@ input, select, textarea {
 		border: 0;
 		cursor: pointer;
 		display: inline-block;
-		font-weight: 300;
+		font-weight: bold;
 		height: 2.75em;
 		line-height: 2.75em;
 		min-width: 9.25em;
